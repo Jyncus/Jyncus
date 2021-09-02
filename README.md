@@ -2,7 +2,7 @@
 - 👀 I’m interested in Home Automation, Networking, and NAS Self-Hosting
 - 🌱 I’m currently learning Docker and Ubitquit networking products
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me Email: Jyncus@gmail.com
+- 📫 How to reach me: Hmm..
 
 <!---
 Jyncus/Jyncus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
