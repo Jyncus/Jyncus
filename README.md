@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jyncus
-- 👀 I’m interested in Home Automation, Networking, and NAS Self-Hosting
+- 👀 I’m interested in Home Automation, Networking, and self-hosting
 - 🌱 I’m currently learning Docker and Ubitquit networking products
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me: Hmm..
