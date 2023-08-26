@@ -2,7 +2,7 @@
 - 👀 I’m interested in Home Automation, Networking, and self-hosting
 - 🌱 I’m currently learning Docker and Ubitquit networking products
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me: Hmm..
+- 📫 How to reach me: Nope..
 
 <!---
 Jyncus/Jyncus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
